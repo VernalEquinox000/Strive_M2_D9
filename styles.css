@@ -24,12 +24,12 @@ body {
   font-weight: oblique;
 }
 
-#aenima-review {
+/* #review-container {
   margin-top: 50px;
   margin-left: 10px;
   height: 10vh;
   background-color: skyblue;
-}
+} */
 
 div img {
   width: 250px;
@@ -55,7 +55,7 @@ p {
 }
 
 .jumbotron > .container {
-  height: 5vh;
+  height: 70vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
